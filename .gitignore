@@ -1,0 +1,21 @@
+# 🧠 Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 Ambientes virtuais (independente do nome)
+env/
+.venv/
+venv/
+.env/
+
+# 🧰 Configurações locais do VS Code
+.vscode/
+
+# 🗑️ Arquivos temporários e de sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
