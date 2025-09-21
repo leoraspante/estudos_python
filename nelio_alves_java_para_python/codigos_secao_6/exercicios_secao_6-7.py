@@ -1,3 +1,5 @@
+# Exercício 7 - Seção 6.
+
 # Programa que realiza a leitura de dois valores e retorna o resultado da divisão.
 # A quantidade de divisões a serem realizadas é definida pelo usuário.
 # A divisão de valores por zero, retorna uma mensagem de advertência.

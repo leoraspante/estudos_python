@@ -1,4 +1,4 @@
-# Exercício 7 - Sessão 5.
+# Exercício 7 - Seção 5.
 
 # Mensagem de apresentação do programa.
 print("Indicador de coordenadas")

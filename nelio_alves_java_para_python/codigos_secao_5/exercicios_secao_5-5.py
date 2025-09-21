@@ -1,4 +1,4 @@
-# Exercício 5 - Sessão 5.
+# Exercício 5 - Seção 5.
 
 # Mensagem de apresentação do programa.
 print("             CARDÁPIO              ")

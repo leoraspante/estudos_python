@@ -1,4 +1,4 @@
-# Exercício 1 - Sessão 4.
+# Exercício 1 - Seção 4.
 
 # Mensagem de apresentação do programa.
 print("Bem vindo a calculadora simples.")

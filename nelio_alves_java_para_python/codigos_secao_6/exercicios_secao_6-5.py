@@ -1,3 +1,5 @@
+# Exercício 5 - Seção 6.
+
 # Código onde verificamos se um determinado valor digitado pelo usuário está ou não dentro de um intervalo estabelecido.
 # A quantidade de verificações será também definida pelo usuário.
 

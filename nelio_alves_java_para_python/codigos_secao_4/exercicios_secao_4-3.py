@@ -1,4 +1,4 @@
-# Exercício 3 - Sessão 4.
+# Exercício 3 - Seção 4.
 
 # Mensagem de apresentação do programa.
 print("Calculadora de diferença.")

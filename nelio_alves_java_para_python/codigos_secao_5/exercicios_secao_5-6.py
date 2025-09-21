@@ -1,4 +1,4 @@
-# Exercício 6 - Sessão 5.
+# Exercício 6 - Seção 5.
 
 # Mensagem de apresentação do programa.
 print("Identificador de intervalo.")

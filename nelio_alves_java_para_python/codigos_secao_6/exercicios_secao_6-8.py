@@ -1,3 +1,5 @@
+# Exercício 8 - Seção 6.
+
 # Programa onde será realizado o cálculo de fatorial de um determinado valor informado pelo usuário.
 
 # Mensagem de apresentação do programa e instruções de uso.

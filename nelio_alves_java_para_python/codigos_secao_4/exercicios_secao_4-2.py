@@ -1,4 +1,4 @@
-# Exercício 2 - Sessão 4.
+# Exercício 2 - Seção 4.
 
 # Mensagem de apresentação do programa.
 print("Bem vindo ao Círculo Precision.")

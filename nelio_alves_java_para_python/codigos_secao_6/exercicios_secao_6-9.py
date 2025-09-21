@@ -1,3 +1,5 @@
+# Exercício 9 - Seção 6.
+
 # Programa responsável pela leitura de um determinado número, retornando todos os seus divisores.
 
 # Mensagens de apresentação e instruções de uso

@@ -1,4 +1,4 @@
-# Exercício 2 - Sessão 5.
+# Exercício 2 - Seção 5.
 
 # Mensagem de apresentação do programa.
 print("Bem vindo ao NumCheck 2.0 !.")

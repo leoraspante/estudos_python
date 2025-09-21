@@ -1,3 +1,5 @@
+# Exercício 4 - Seção 6.
+
 # Código simples para a verificação de valores ímpares em um determinado intervalo, fazendo uso do loop for.
 
 # Mensagem de apresentação e instrução de uso.

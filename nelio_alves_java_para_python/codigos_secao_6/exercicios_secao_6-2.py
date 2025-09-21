@@ -1,3 +1,5 @@
+# Exercício 2 - Seção 6.
+
 # Programa que lê coordenadas X,Y no plano cartesiano.
 # A execução é encerrada quando X ou Y for igual a zero.
 

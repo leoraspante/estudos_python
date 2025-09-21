@@ -1,4 +1,4 @@
-# Exercício 8 - Sessão 5.
+# Exercício 8 - Seção 5.
 
 # Mensagem de apresentação do programa.
 print("Cálculo de imposto de renda")

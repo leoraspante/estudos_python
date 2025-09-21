@@ -1,4 +1,4 @@
-# Exercício 4 - Sessão 4.
+# Exercício 4 - Seção 4.
 
 # Mensagem de apresentação do programa.
 print("Calculadora de salário.")

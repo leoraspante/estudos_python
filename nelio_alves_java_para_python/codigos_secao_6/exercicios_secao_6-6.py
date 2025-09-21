@@ -1,3 +1,5 @@
+# Exercício 6 - Seção 6.
+
 # Programa onde uma sequência de três valores com casas decimais informados pelo usuário serão analisados e o valor de sua média será retornada.
 # A quantidade de verificações a serem realizadas será definida pelo usuário.
 # Para cada um dos três valores digitados será dado um peso diferenciado.

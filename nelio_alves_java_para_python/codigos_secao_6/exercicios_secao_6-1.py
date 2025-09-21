@@ -1,3 +1,5 @@
+# Exercício 1 - Seção 6.
+
 # Programa verificador de senha fazendo uso do loop while.
 # Senha correta 2002.
 

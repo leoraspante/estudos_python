@@ -1,4 +1,4 @@
-# Exercício 6 - Sessão 4.
+# Exercício 6 - Seção 4.
 
 # Mensagem de apresentação do programa.
 print("Combined Calculator.")

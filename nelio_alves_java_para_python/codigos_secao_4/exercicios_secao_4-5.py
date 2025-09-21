@@ -1,4 +1,4 @@
-# Exercício 5 - Sessão 4.
+# Exercício 5 - Seção 4.
 
 # Mensagem de apresentação do programa.
 print("Shopping Calculator.")

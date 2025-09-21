@@ -1,3 +1,5 @@
+# Exercício 3 - Seção 6.
+
 # Programa responsável pela verificação de qual o combustível mais vendido em um posto.
 
 # Definição de variáveis para a acumulação dos valores.

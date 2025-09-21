@@ -1,3 +1,5 @@
+# Exercício 10 - Seção 6.
+
 # Program that receives a value_x from the user and performs math operations.
 
 # Variable capturing user's input.
